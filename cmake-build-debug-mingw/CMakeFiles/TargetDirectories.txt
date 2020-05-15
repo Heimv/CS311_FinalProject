@@ -1,0 +1,4 @@
+C:/Users/Victor/OneDrive - Epitech/CSUSM/Algorithme & Data Structure/CS311_FinalProject/cmake-build-debug-mingw/CMakeFiles/FinalProject.dir
+C:/Users/Victor/OneDrive - Epitech/CSUSM/Algorithme & Data Structure/CS311_FinalProject/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/Victor/OneDrive - Epitech/CSUSM/Algorithme & Data Structure/CS311_FinalProject/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/Victor/OneDrive - Epitech/CSUSM/Algorithme & Data Structure/CS311_FinalProject/cmake-build-debug-mingw/CMakeFiles/FinalProject_autogen.dir

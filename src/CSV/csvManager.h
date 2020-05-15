@@ -1,14 +1,18 @@
-//
-// Created by Victor on 5/11/2020.
-//
+#pragma once
 
-#ifndef FINALPROJECT_CSVMANAGER_H
-#define FINALPROJECT_CSVMANAGER_H
-
+#include <vector>
+#include "../BinSearchSortTree/binstree.h"
+#include "rapidcsv.h"
 
 class csvManager {
+private:
+    rapidcsv::Document db;
+    BST *tree;
+public:
+    explicit csvManager(BST *);
 
+    virtual ~csvManager();
+
+    void readFile();
+    void writeFile();
 };
-
-
-#endif //FINALPROJECT_CSVMANAGER_H
